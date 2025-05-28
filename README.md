@@ -24,6 +24,6 @@ Theoretical semiotic signs are abstract, conceptual representations of ideas, ob
 <br>
 [Math Tools](https://github.com/sourceduty/Math_Tools)
 <br>
-[Command Architectu](https://github.com/sourceduty/Command_Architect)
+[Command Architect](https://github.com/sourceduty/Command_Architect)
 <br>
 [Communication](https://github.com/sourceduty/Communication)
